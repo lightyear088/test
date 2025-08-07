@@ -34,7 +34,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and Rea5ct logos to learn more
+        Click on the Vite and 7Rea5ct logos to learn more
       </p>
       <div>
         {
